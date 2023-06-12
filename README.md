@@ -2,45 +2,50 @@
 
 ### HomePage
 ---  
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/4ec85a57-f053-4011-8f36-b32fda41cf47)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/0c2c1cf7-a3ce-4c28-91a2-4de02ed70c42)
+
 #### 說明
 - 檔案名稱:Home.cs
-- 
+
 ### Hw1:Hello Form
 ---  
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/ae88cb5c-fcf0-4483-9f01-f63d4fa75d00)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/c74d3bc1-9aa8-4642-b71e-f2ea456b14f9)
+
 #### 說明
 - 檔案名稱:HelloForm_0306.cs  
 
 ### Hw2:Loan  
 ---  
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/1cea9b8d-2335-4504-b474-d324a150c42c)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/c819fca8-6b2e-4433-98a4-867011f8e449)
+
 #### 說明
 - 檔案名稱:POS_0306.cs、Report_0306.cs
 
 ### Hw3:POS
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/6a646163-b20d-4954-a1db-92253e94b955)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/5441af02-31c8-4daa-b33e-7da41d8c1d39)
+
 #### 說明
 - 檔案名稱:POS_0306.cs
 
 ### Hw4:Score
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/fd8fce04-8652-43e5-9f8e-906bea325863)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/7f19bf97-c72a-49ca-ba6a-df8dd85f51eb)
 #### 說明
 - 檔案名稱:Score_0306.cs  
 參考Class Resource:Student.cs
 
 ### Hw5:Grade
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/d649c6c2-c392-4113-9f5c-697bc969edd9)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/29ff7410-f30e-4d09-908a-50d742326bd9)
+
 #### 說明
 - 檔案名稱 : Grade_0306.cs  
 Reference Class from : Student.cs
 
 ### Hw6:Grade_list
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/6b57ce8d-e6b7-4e34-a135-956d33336f0e)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/ac89ee70-11d6-49a1-9d5b-9f499bbe5978)
 - 檔案名稱 : Grade_list_0306.cs  
 參考Class Resource : Student.cs
 
@@ -51,5 +56,5 @@ Reference Class from : Student.cs
 
 ### Hw8:Calculator
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/6681ce69-a0de-4fa0-b9bc-5ef792c1439b)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/15c71045-e76b-4c1b-9143-e4aea3354c5a)
 - 檔案名稱 : MyCalc_0306.cs
