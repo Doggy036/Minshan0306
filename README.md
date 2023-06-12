@@ -51,7 +51,7 @@ Reference Class from : Student.cs
 
 ### Hw7:Notebook
 ---
-![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/7265cb34-2dde-4f9a-9e6c-f30c4d081eef)
+![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/5caf6df1-5532-4557-a5c3-fe81bf64b05f)
 - 檔案名稱 : NoteBook_0306.cs
 
 ### Hw8:Calculator
