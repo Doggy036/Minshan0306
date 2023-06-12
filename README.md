@@ -19,7 +19,8 @@
 ![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/c819fca8-6b2e-4433-98a4-867011f8e449)
 
 #### 說明
-- 檔案名稱:POS_0306.cs、Report_0306.cs
+- 檔案名稱:Loan_0306.cs、Report_0306.cs
+- 目前還正在更新Report_0306.cs
 
 ### Hw3:POS
 ---
@@ -53,6 +54,7 @@ Reference Class from : Student.cs
 ---
 ![圖片](https://github.com/Doggy036/Minshan0306/assets/135186832/5caf6df1-5532-4557-a5c3-fe81bf64b05f)
 - 檔案名稱 : NoteBook_0306.cs
+- 待新增printer功能
 
 ### Hw8:Calculator
 ---
